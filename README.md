@@ -6,6 +6,7 @@
 
     - Unity
     - C#
+    - Gameplay programming
 
 * Studio Types
 
