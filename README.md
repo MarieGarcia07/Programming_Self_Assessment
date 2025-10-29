@@ -1,14 +1,14 @@
 # Programming_Self_Assessment
 
 * Self Accessment
-      * Strengths
-          - Unity
-          - C#
-          - Gameplay programming
-      * Weaknesses
-          - Unreal Engine
-          - C++
-          - Engine Programming
+   * Strengths
+     - Unity
+     - C#
+     - Gameplay programming
+   * Weaknesses
+     - Unreal Engine
+     - C++
+     - Engine Programming
 
 * Studio Types
 
@@ -20,3 +20,6 @@
   * Gameplay Programmer
   * AI Programmer
   * UI Programmer
+ 
+## Job Listings
+
