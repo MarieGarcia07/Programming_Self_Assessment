@@ -1,8 +1,6 @@
 # Programming_Self_Assessment
 
 * Self Accessment
-
-  * What is my strength & Weakness
       * Strengths
           - Unity
           - C#
