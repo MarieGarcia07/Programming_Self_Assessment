@@ -3,10 +3,14 @@
 * Self Accessment
 
   * What is my strength & Weakness
-
-    - Unity
-    - C#
-    - Gameplay programming
+      * Strengths
+          - Unity
+          - C#
+          - Gameplay programming
+      * Weaknesses
+          - Unreal Engine
+          - C++
+          - Engine Programming
 
 * Studio Types
 
